@@ -90,7 +90,7 @@
             "displayName": "WebAppConfig"
           },
           "properties": {
-            "netFrameworkVersion": "v6.0",
+            "netFrameworkVersion": "v8.0",
             "use32BitWorkerProcess": true,
             "webSocketsEnabled": true,
             "alwaysOn": true,
